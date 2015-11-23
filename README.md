@@ -11,5 +11,4 @@ Make sure you have the latest Scripthookdotnet, NativeUI & Target Framework set 
 
 --
 
- PoliceMod2.AI.CalloutMgr
-   Allows
+ 
